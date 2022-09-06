@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		1AE8710628C66CCC00C77E56 /* recipe.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = recipe.html; sourceTree = "<group>"; };
+		1AE8710728C6738D00C77E56 /* Pizza-recipe.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "Pizza-recipe.js"; sourceTree = "<group>"; };
+		1AE8710828C6901A00C77E56 /* Background.cs */ = {isa = PBXFileReference; lastKnownFileType = text; path = Background.cs; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1AE870FE28C66BD800C77E56 = {
+			isa = PBXGroup;
+			children = (
+				1AE8710828C6901A00C77E56 /* Background.cs */,
+				1AE8710628C66CCC00C77E56 /* recipe.html */,
+				1AE8710728C6738D00C77E56 /* Pizza-recipe.js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		1AE870FF28C66BD800C77E56 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1340;
+			};
+			buildConfigurationList = 1AE8710228C66BD800C77E56 /* Build configuration list for PBXProject "Favorite recipe" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1AE870FE28C66BD800C77E56;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		1AE8710328C66BD800C77E56 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		1AE8710428C66BD800C77E56 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1AE8710228C66BD800C77E56 /* Build configuration list for PBXProject "Favorite recipe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AE8710328C66BD800C77E56 /* Debug */,
+				1AE8710428C66BD800C77E56 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1AE870FF28C66BD800C77E56 /* Project object */;
+}
